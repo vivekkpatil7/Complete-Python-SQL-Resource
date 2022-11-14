@@ -1,11 +1,11 @@
 # Complete-SQL-Resource
 
 ```
-🎯 collection of My AWS Solution Architect Associate Exam Resources!
+🎯 Collection of My SQL (Mysql for practice) study Resources!
 
 ```
-***key tools, technologies and services covered on the exam !***
+***key Concepts, Statements, and codes covered in this repo !***
 
-<img width="" src="https://github.com/vivekkpatil7/AWS-Solution-Architect-Exam-SAA-C02-/blob/04ef0fdf25f649134d7a27afeaaa4a81a4dcabc8/image/An%20overview%20of%20serverless%20AWS%20services.png" />
+<img width="" src="https://github.com/vivekkpatil7/Complete-SQL-Resource/blob/ed142ca3de9880746103aca21224c6be18ff9d6d/images/1032.jpg" />
 
-AWS Solution Architect Associate Resource is a comprehensive repository containing 20+ important documentation on aws Compute, Database, Security, Storage, Networking and many more.  
+
